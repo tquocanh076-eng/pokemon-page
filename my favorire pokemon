@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Pokemon</title>
+</head>
+
+<body>
+    <header>
+        <h1>=== My Favorite Pokemon ===</h1>
+        <p>Three Unova legends I can’t stop thinking about, maybe.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>1. Reshiram</h2>
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png"
+                alt="Reshiram, a white legendary dragon Pokemon" width="200">
+            <p>
+                Reshiram is a legendary Dragon and Fire-type Pokemon.
+                It represents truth and has powerful fire abilities.
+            </p>
+            <h3>Reshiram's features</h3>
+            <ul>
+                <li>Type: Dragon and Fire</li>
+                <li>Known for its soft and thick white fur appearance</li>
+                <li>Uses powerful fire attacks and disagrees with Zekrom</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>2. Zekrom</h2>
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png"
+                alt="Zekrom, a black legendary dragon Pokemon" width="200">
+            <p>
+                Zekrom is a legendary Dragon and Electric-type Pokemon.
+                It represents ideals and controls electricity.
+            </p>
+            <ul>
+                <li>Type: Dragon and Electric</li>
+                <li>Has a black and metal-like body</li>
+                <li>Uses powerful electric attacks, disagrees with Reshiram</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. Kyurem</h2>
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png"
+                alt="Kyurem, a legendary Dragon and Ice-type Pokemon" width="200">
+        
+            <p>
+                Kyurem is a legendary Dragon and Ice-type Pokemon.
+                It is known for its icy appearance and mysterious power.
+            </p>
+        
+            <ul>
+                <li>Type: Dragon and Ice</li>
+                <li>Has a powerful icy and empty body</li>
+                <li>Can use powerful Ice-type attacks, "these two above won't stop fighting smh"</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Conclusion :</h2>
+            <p>
+                These Pokemon are special in different ways.
+                Reshiram is my favorite because of its dragon design and gorgeous white fur (not in the JustinRPG way).
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by a Black and White series fan for an HTML project (no I just larp to this).</p>
+    </footer>
+</body>
+
+</html>
